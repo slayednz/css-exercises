@@ -1,0 +1,15 @@
+.odd {
+    background-color: rgb(244,194,194); font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#ele2 { 
+    color: rgb(0,0,255); font-size: 36px;
+}
+
+#ele4 {
+    background-color: rgb(144,238,144); font-size: 24px; font-weight: bold;
+}
+
+.third {
+    font-size: 24px;
+}
