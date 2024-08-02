@@ -1,0 +1,24 @@
+.container {
+    text-decoration: none;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: thin PaleTurquoise;
+    font-size: 32px;
+     }
+      
+.text2:hover {
+    -webkit-text-fill-color: PaleTurquoise;
+}
+
+body {
+    font-family: 'Space Mono', sans-serif;
+    min-height: 100vh;
+    padding: 2rem;
+    justify-content: center;
+    place-items: center;
+    background-color: maroon;
+  }
+  
+  .parent {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
